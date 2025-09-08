@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* PG Program in Data Science and AI with Deep Learning - University of Texas at Austin
+* Post Graduate Program in Data Science, University of Texas - Austin
 * Master of Computer Applications, Osmania University - India
 * Bachelor of Mathematics, Acharya Nagarjuna University – India
 
