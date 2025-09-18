@@ -20,9 +20,9 @@ Work experience
 ======
 * 01/2016 - 05/2025: Principal Engineer
   * Optum Technologies
-  * Duties includes: Individual Contributor/Architect
+  * Duties include: Individual Contributor/Architect
 
-* 06/2015 – 12/201: Software Architect
+* 06/2015 – 12/2015: Software Architect
   * CES Technology Services
   * Duties included: Individual Contributor/Architect
 
