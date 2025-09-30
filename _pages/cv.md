@@ -11,24 +11,26 @@ redirect_from:
 
 Education
 ======
+* AI on Cloud, Great Learning
 * Post Graduate Program in Data Science, University of Texas - Austin
 * Master of Computer Applications, Osmania University - India
 * Bachelor of Mathematics, Acharya Nagarjuna University – India
+
 
 
 Work experience
 ======
 * 01/2016 - 05/2025: Principal Engineer
   * Optum Technologies
-  * Duties include: Individual Contributor/Architect
+  
 
 * 06/2015 – 12/2015: Software Architect
   * CES Technology Services
-  * Duties included: Individual Contributor/Architect
+  
 
 * 08/2014 – 05/2015: Sr Analyst
   * Bank of America
-  * Duties included: Data Analyst
+  
 
 
 
