@@ -23,23 +23,23 @@ redirect_from:
 
 ## TECHNICAL SKILLS
 
-**Programming Languages:** Python | Java | Scala
+**Programming Languages:** Python \| Java \| Scala
 
-**ML and AI:** Deep Learning (PyTorch | TensorFlow/Keras) | Time Series | Causal Inference | Transformer Architecture | Amazon SageMaker AI
+**ML and AI:** Deep Learning (PyTorch \| TensorFlow/Keras) \| Time Series \| Causal Inference \| Transformer Architecture \| Amazon SageMaker AI
 
-**ML Deployment:** ML Pipeline Design and Deployment | Model Evaluation and Monitoring | MLOps | Data Drift Handling | A/B Testing | Docker | Kubernetes | GitHub CI/CD Pipelines
+**ML Deployment:** ML Pipeline Design and Deployment \| Model Evaluation and Monitoring \| MLOps \| Data Drift Handling \| A/B Testing \| Docker \| Kubernetes \| GitHub CI/CD Pipelines
 
-**Data Science and Analytics:** Statistics | Feature Engineering | Data Mining/Analysis/Cleaning | Data Visualization | Model Selection/Evaluation/Deployment/Monitoring
+**Data Science and Analytics:** Statistics \| Feature Engineering \| Data Mining/Analysis/Cleaning \| Data Visualization \| Model Selection/Evaluation/Deployment/Monitoring
 
-**Cloud Technologies:** Azure – (Machine Learning | Databricks | AKS Cognitive Services) | AWS - S3, EC2 | GCP(Familiar)
+**Cloud Technologies:** Azure – (Machine Learning \| Databricks \| AKS Cognitive Services) \| AWS - S3, EC2 \| GCP(Familiar)
 
-**Data Technologies:** PySpark | SQL | Data Governance
+**Data Technologies:** PySpark \| SQL \| Data Governance
 
-**Database:** Oracle | MySQL | SQL Server | NoSQL - (Cosmos DB | HBase) | PostgreSQL
+**Database:** Oracle \| MySQL \| SQL Server \| NoSQL - (Cosmos DB \| HBase) \| PostgreSQL
 
-**Architecture Patterns:** Deep understanding and practical application of various patterns (ML System Design | Distributed Training | Real-time/Batch Inference)
+**Architecture Patterns:** Deep understanding and practical application of various patterns (ML System Design \| Distributed Training \| Real-time/Batch Inference)
 
-**Tools and Technologies:** Boto3 | Jupyter | Colab | MLflow | Optuna | Comet ML
+**Tools and Technologies:** Boto3 \| Jupyter \| Colab \| MLflow \| Optuna \| Comet ML
 
 Work experience
 ======
