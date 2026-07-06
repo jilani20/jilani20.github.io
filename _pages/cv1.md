@@ -1,4 +1,5 @@
 ---
+layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
@@ -112,9 +113,31 @@ redirect_from:
 
 # Certifications
 
-- IEEE Senior Member, elevated May 2026
 - Sun Certified Java Programmer, 2006
 
 # Open source
 
 - [ttgrasp](https://github.com/jilani20/ttgrasp) — a personal train/test DataFrame-profiling utility (Apache-2.0, 100% Python), published to PyPI and used across coursework projects. Currently validating a bugfix via a TestPyPI release candidate (0.0.9rc0).
+
+
+<!-- Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Talks
+======
+  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html  %}
+  {% endfor %}</ul>
+
+Teaching
+======
+  <ul>{% for post in site.teaching reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Service and leadership
+======
+* Currently signed in to 43 different slack teams -->
