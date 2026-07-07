@@ -31,9 +31,9 @@ redirect_from:
   * Technologies: Python, Azure, Databricks, Power BI, Cognos
 
 - 2016 – 2025: Principal Engineer, Optum — In-Office Assessment (IOA) & Medication Gap models
-  * Built ensemble models (LightGBM, XGBoost, Random Forest) analyzing 2M+ member records — 83% accuracy, 23% higher enrollment, 31% better quality-measure completion vs. rule-based baseline
+  * Built ensemble models (LightGBM, XGBoost, Random Forest) analyzing 2M+ member records — 83% accuracy, 23% higher enrollment, 31% better HEDIS quality-measure completion vs. rule-based baseline
   * Deployed the model on a distributed PySpark cluster, driving a 20% year-over-year increase in prospective returns
-  * Built a medication-adherence model (PySpark on Azure Databricks) deployed as an Azure ML managed endpoint, with MLOps drift detection and automated retraining on Delta Lake
+  * Built a medication-adherence model (HEDIS/CMS Star PDC measures; PySpark on Azure Databricks) deployed as an Azure ML managed endpoint, with MLOps drift detection and automated retraining on Delta Lake
   * Technologies: LightGBM, XGBoost, Random Forest, PySpark, Bayesian Optimization, A/B Testing, Azure Databricks, Ensemble Methods, Azure ML, Delta Lake, MLOps
 
 - 2016 – 2025: Principal Engineer, Optum — Enterprise Data Platform Engineering
@@ -79,6 +79,9 @@ redirect_from:
 - Data Science
   * Statistics, Feature Engineering, Data Analysis, Cleaning and Data Visualization, EDA, A/B Testing
   * Unsupervised Learning (K-Means, Hierarchical Clustering)
+- Healthcare Domain
+  * HEDIS, CMS Star Ratings, NCQA Quality Measures
+  * Population Health Management, Medicare/Medicaid/ACA Quality Reporting
 - ML, Deep Learning & AI
   * PySpark, PyTorch, TensorFlow/Keras, CNN, Transfer Learning, Focal Loss
   * AWS SageMaker (XGBoost, hyperparameter tuning, endpoint deployment), scikit-learn
